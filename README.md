@@ -1,6 +1,6 @@
 # Ruqzuq React Template
 
-![visit ruqzuq.com](https://img.shields.io/badge/visit-ruqzuq.com-%23c70039?style=flat-square?link=https://ruqzuq.com/&link=https://ruqzuq.com/)
+[![visit ruqzuq.com](https://img.shields.io/badge/visit-ruqzuq.com-%23c70039?style=flat-square)](https://ruqzuq.com)
 
 Preconfigured working _React App_, which includes following features:
 
