@@ -8,4 +8,4 @@ window.ondragstart = function () {
 	return false;
 };
 
-ReactDOM.createRoot(document.getElementById('head')).render(<App />);
+ReactDOM.createRoot(document.getElementById('body')).render(<App />);
