@@ -11,5 +11,7 @@ Preconfigured working _React App_, which includes following features:
 ## Scripts
 
 `yarn start`: Start the App.
+
 `yarn lint:`: Lint the whole _\src_ code.
+
 `yarn build`: Create a build in the _\public_ folder.
