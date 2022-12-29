@@ -16,9 +16,6 @@ plugins:
   - import
 rules:
   react/prop-types: off
-  indent:
-    - error
-    - tab
   quotes:
     - error
     - single
