@@ -1,0 +1,11 @@
+import React from 'react';
+
+const useStyles = createUseStyles(({ theme }) => ({}));
+
+export function (props) {
+	const {} = props;
+
+	const { classes } = useStyles();
+
+	return <></>;
+}
