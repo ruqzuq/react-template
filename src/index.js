@@ -5,7 +5,7 @@ import './index.css';
 
 //avoid dragging images
 window.ondragstart = function () {
-	return false;
+  return false;
 };
 
 ReactDOM.createRoot(document.getElementById('body')).render(<App />);
